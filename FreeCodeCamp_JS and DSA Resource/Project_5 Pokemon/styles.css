@@ -1,0 +1,25 @@
+/* Add your styles here */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+#pokemon-details {
+  margin-top: 20px;
+}
+
+#pokemon-details div {
+  margin-bottom: 5px;
+}
+
+#types p {
+  margin: 0;
+}
+
+#sprite {
+  margin-top: 10px;
+  max-width: 200px;
+  height: auto;
+}
